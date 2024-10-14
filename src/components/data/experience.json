@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "Project Intern at IIIT Guwahati(Under Dr.Shovan Barma)",
+    "organisation": "Precise Medication PVT LTD (Under IIIT Guwahati R&D)",
+    "startDate": "April, 2024",
+    "endDate": "Present",
+    "location": "Guwahati, Assam",
+    "experiences": [
+      "Worked on Medication Mangement Software Development",
+      "Worked as Full Stack(MERN) Developer"
+    ],
+    "imageSrc": "company/images.png"
+  }
+]
